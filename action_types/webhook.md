@@ -4,6 +4,14 @@
 calls a webhook
 
 ## configuration:
+```json
+{
+}
+```
+
+** TODO: 
+------ define HASURA EVENT CONFIGURATION for execution as a hasura/events
+
 
 
 
